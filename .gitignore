@@ -1,0 +1,4 @@
+# Ignore Python and Streamlit files
+__pycache__/
+*.pyc
+.venv/
