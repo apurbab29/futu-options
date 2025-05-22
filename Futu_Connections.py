@@ -52,3 +52,4 @@ else:
         )
         fig_oi.update_layout(xaxis_title='Strike Price', yaxis_title='Open Interest')
         st.plotly_chart(fig_oi, use_container_width=True)
+
